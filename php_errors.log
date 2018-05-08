@@ -1,0 +1,81 @@
+[04-May-2018 20:26:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 20:26:00 UTC] PHP Stack trace:
+[04-May-2018 20:26:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:26:00 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 20:26:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 20:26:14 UTC] PHP Stack trace:
+[04-May-2018 20:26:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:26:14 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 20:36:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 20:36:01 UTC] PHP Stack trace:
+[04-May-2018 20:36:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:36:01 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 20:36:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 20:36:15 UTC] PHP Stack trace:
+[04-May-2018 20:36:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:36:15 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 20:36:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/ubuntu/workspace/forms/form.php on line 12
+[04-May-2018 20:36:15 UTC] PHP Stack trace:
+[04-May-2018 20:36:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:36:15 UTC] PHP   2. mysqli->real_escape_string() /home/ubuntu/workspace/forms/form.php:12
+[04-May-2018 20:36:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/ubuntu/workspace/forms/form.php on line 13
+[04-May-2018 20:36:15 UTC] PHP Stack trace:
+[04-May-2018 20:36:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:36:15 UTC] PHP   2. mysqli->real_escape_string() /home/ubuntu/workspace/forms/form.php:13
+[04-May-2018 20:36:15 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/forms/form.php on line 16
+[04-May-2018 20:36:15 UTC] PHP Stack trace:
+[04-May-2018 20:36:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:36:15 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/forms/form.php:16
+[04-May-2018 20:38:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 20:38:57 UTC] PHP Stack trace:
+[04-May-2018 20:38:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:38:57 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 20:40:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 20:40:46 UTC] PHP Stack trace:
+[04-May-2018 20:40:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:40:46 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 20:41:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 20:41:12 UTC] PHP Stack trace:
+[04-May-2018 20:41:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:41:12 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 20:41:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 20:41:44 UTC] PHP Stack trace:
+[04-May-2018 20:41:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:41:44 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 20:44:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 20:44:01 UTC] PHP Stack trace:
+[04-May-2018 20:44:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 20:44:01 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 22:05:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 22:05:32 UTC] PHP Stack trace:
+[04-May-2018 22:05:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 22:05:32 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 22:05:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 22:05:42 UTC] PHP Stack trace:
+[04-May-2018 22:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 22:05:42 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 22:09:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/forms/form.php on line 30
+[04-May-2018 22:45:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 22:45:42 UTC] PHP Stack trace:
+[04-May-2018 22:45:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 22:45:42 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 22:50:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 22:50:55 UTC] PHP Stack trace:
+[04-May-2018 22:50:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 22:50:55 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 22:51:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 22:51:10 UTC] PHP Stack trace:
+[04-May-2018 22:51:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 22:51:10 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 22:54:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 22:54:28 UTC] PHP Stack trace:
+[04-May-2018 22:54:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 22:54:28 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 22:54:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lovericelol'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 22:54:52 UTC] PHP Stack trace:
+[04-May-2018 22:54:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 22:54:52 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
+[04-May-2018 22:55:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/forms/form.php on line 4
+[04-May-2018 22:55:34 UTC] PHP Stack trace:
+[04-May-2018 22:55:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/forms/form.php:0
+[04-May-2018 22:55:34 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/forms/form.php:4
