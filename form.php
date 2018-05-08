@@ -19,7 +19,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
          . "VALUES ('$username', '$email', '$password')";
   
       if($mysqli->query($sql) === true){
-        $_SESSION['message'] = "Registration successful! added $username to the database!";
+        $_SESSION['message'] = "Registration successful! $username has been added to the database!";
         header("location:welcome.php");
         
       }

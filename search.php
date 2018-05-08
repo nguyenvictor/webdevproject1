@@ -49,7 +49,7 @@ if($_GET['q'] !== ''){
                 border-bottom-right-radius: 10px;
                 font-size: 16px;
                 padding: 10px;
-                background: #f1d829;
+                background: #c0c0c0;
                 font-weight: bold;
                 cursor: pointer;
                 outline: none;
@@ -77,7 +77,7 @@ if($_GET['q'] !== ''){
         
             <input type="text" name ="q" id="searchBox" placeholder="" value="Search..." maxlength="25" autocomplete= "off"
             onMouseDown="active();" onBlue="inactive();" />
-            <input type="submit" id="searchButton" value="Go!"/>
+            <input type="submit" id="searchButton" value="Search"/>
             </form>
             <?php
             //Testing if database connection connected
